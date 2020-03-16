@@ -1,0 +1,4 @@
+Name : Stelios  Score : 190
+Name : Lambros  Score : 180
+Name : Pavlos  Score : 120
+Name : Niki  Score : 60
