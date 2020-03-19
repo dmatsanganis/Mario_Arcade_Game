@@ -1,0 +1,14 @@
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dimitris\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.ResolveComReference.cache
