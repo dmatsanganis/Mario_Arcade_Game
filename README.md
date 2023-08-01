@@ -25,3 +25,9 @@ Super Mario Click Challenge fosters competition by maintaining a leaderboard tha
 - **Dynamic Background Music**: The game enhances the overall player experience by including a selection of background music tracks that vary based on the game's state.
 
 This project exhibits a sophisticated application of OOP principles in game development, resulting in an engaging, user-friendly gaming experience.
+
+## Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
